@@ -1,0 +1,6 @@
+{
+  "name": "Meal Prep Peruano a Domicilio",
+  "description": "Servicio premium de chef a domicilio en Lima para planificar, cocinar y organizar tu comida de la semana en porciones etiquetadas y listas para consumir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
