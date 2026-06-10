@@ -81,7 +81,7 @@ export default function CtaFinal({ onOpenBooking }: CtaFinalProps) {
           {/* Picture side */}
           <div className="lg:col-span-5 h-full relative aspect-[4/3] lg:aspect-auto lg:h-[580px] min-h-[300px]">
             <img 
-              src="/src/assets/images/family_dinner_1781045178582.png" 
+              src="/assets/images/family_dinner.png" 
               alt="Familia limeña unida cenando comida peruana preparada sana" 
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover"

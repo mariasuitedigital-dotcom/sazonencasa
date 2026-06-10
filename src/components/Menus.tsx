@@ -40,7 +40,7 @@ export default function Menus() {
         {/* Premium Banner using Generated Image */}
         <div className="mb-14 relative rounded-3xl overflow-hidden h-[260px] sm:h-[350px] shadow-xl border-4 border-white group">
           <img 
-            src="/src/assets/images/peruvian_dishes_1781045189925.png" 
+            src="/assets/images/peruvian_dishes.png" 
             alt="Ingredientes y platos peruanos preparados por Sazón & Orden" 
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover group-hover:scale-102 transition-transform duration-700 ease-out"

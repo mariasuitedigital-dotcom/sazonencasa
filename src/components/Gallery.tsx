@@ -13,7 +13,7 @@ export default function Gallery() {
       id: "g1",
       title: "Chef Profesional Cocinando",
       category: "Nuestros Chefs",
-      image: "/src/assets/images/chef_lima_cooking_1781045150794.png",
+      image: "/assets/images/chef_lima_cooking.png",
       spanClass: "md:col-span-2 lg:col-span-2",
       aspectClass: "aspect-[16/9]"
     },
@@ -21,7 +21,7 @@ export default function Gallery() {
       id: "g2",
       title: "Refrigeradora Organizada con Envases de Vidrio",
       category: "Higienización & Orden",
-      image: "/src/assets/images/organized_fridge_1781045166421.png",
+      image: "/assets/images/organized_fridge.png",
       spanClass: "md:col-span-1 lg:col-span-1",
       aspectClass: "aspect-[4/3]"
     },
@@ -29,7 +29,7 @@ export default function Gallery() {
       id: "g3",
       title: "Porciones Cocinadas y Etiquetadas Semanales",
       category: "Meal Prep Listo",
-      image: "/src/assets/images/peruvian_dishes_1781045189925.png",
+      image: "/assets/images/peruvian_dishes.png",
       spanClass: "md:col-span-1 lg:col-span-1",
       aspectClass: "aspect-[4/3]"
     },
@@ -37,7 +37,7 @@ export default function Gallery() {
       id: "g4",
       title: "Familia Limeña Disfrutando Sin Cocinar",
       category: "Calidad de Vida",
-      image: "/src/assets/images/family_dinner_1781045178582.png",
+      image: "/assets/images/family_dinner.png",
       spanClass: "md:col-span-2 lg:col-span-2",
       aspectClass: "aspect-[16/9]"
     },

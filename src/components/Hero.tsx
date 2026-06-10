@@ -103,7 +103,7 @@ export default function Hero({ onOpenBooking }: HeroProps) {
             {/* Fine Arts Elegant Image Container */}
             <div className="relative z-10 w-full max-w-[420px] aspect-[4/5] rounded-[2rem] border-8 border-white bg-crema shadow-2xl overflow-hidden group">
               <img
-                src="/src/assets/images/chef_lima_cooking_1781045150794.png"
+                src="/assets/images/chef_lima_cooking.png"
                 alt="Chef profesional de Sazón & Orden cocinando platos peruanos"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover group-hover:scale-105 transition-all duration-700 ease-out"
